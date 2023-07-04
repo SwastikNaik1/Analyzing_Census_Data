@@ -1,4 +1,4 @@
-# India_Census_Data
+# Analyzing_Census_Data
 
 Welcome to my repository, showcasing my project on "Analyzing India's Census Data" where I delve into the depths of SQL to extract valuable insights and showcase my strong command over the language.
 
