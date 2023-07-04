@@ -1,6 +1,6 @@
 # India_Census_Data
 
-Welcome to my repository, showcasing my project on "Analyzing India Census Data" where I delve into the depths of SQL to extract valuable insights and showcase my strong command over the language.
+Welcome to my repository, showcasing my project on "Analyzing India's Census Data" where I delve into the depths of SQL to extract valuable insights and showcase my strong command over the language.
 
 In this project, I have employed a myriad of SQL techniques, including complex joins, powerful clauses, and advanced functions, to effectively analyze the vast amount of data collected through the Indian Census. Through meticulous exploration and querying, I have uncovered hidden patterns, correlations, and trends within this rich dataset, providing valuable insights into various demographic aspects of India.
 
